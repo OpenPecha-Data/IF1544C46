@@ -1,0 +1,16 @@
+id: IF1544C46
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:45:08.660464
+last_modified: 2023-02-09 14:45:08.660595
+source_metadata:
+  title: 'PP: Aṣṭasāhasrikā Prajñāpāramitā'
+  language: zh
+bases:
+  '1733':
+    base_file: 1733.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
